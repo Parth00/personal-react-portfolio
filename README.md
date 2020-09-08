@@ -12,5 +12,5 @@ This is a ReactJS based personal resume/portfolio website. A big shout and thank
 
 HTML Design Template
 
-<a href="https://www.styleshout.com/free-templates/ceevee/">Ceevee Template by Styleshout</a> <br/>
-<a href="https://github.com/CleverProgrammers/react-portfolio"> CleverProgrammer </a>
+#### <a href="https://www.styleshout.com/free-templates/ceevee/">Ceevee Template by Styleshout</a> ####
+#### <a href="https://github.com/CleverProgrammers/react-portfolio"> CleverProgrammer </a> ####
