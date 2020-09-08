@@ -1,0 +1,144 @@
+{
+  "main": {
+    "name": "Parth Dubal",
+    "occupation": "Full Stack/Python Developer",
+    "description": "Full Stack Developer at a start-up company and Python developer volunteer at another start-up company",
+    "image": "IG_Parth.jpg",
+    "bio": "My name is Parth Dubal. I am currently working as a full stack developer at a start-up company and python developer  volunteer at a different company. I have 2 years of extensive experience in web development. Soon to join Capgemini for their client Morgan Stanley. :)",
+    "contactmessage": "Get in touch with me to know more. I take freelance projects and also tutor one-to-one..",
+    "email": "dubalparth@gmail.com",
+    "phone": "+1 705-761-6568",
+    "address": {
+      "street": "190 Rubidge St. Unit 1",
+      "city": "Peterborough",
+      "state": "ON",
+      "zip": "K9J 3N7"
+    },
+    "resumedownload": "/docs/Parth_Dubal_-_Software_Developer.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/neuroticTechnopyhle",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/parthalpeshdubal/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/parth.dubal01/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Parth00",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Python | Django | Flask | React | Docker",
+    "education": [
+      {
+        "school": "Sir Sandford Fleming College",
+        "degree": "Post Graduation in Wireless Information Netowkring",
+        "graduated": "April 2019",
+        "description": "Graduated with 3.9/4.0 GPA"
+      },
+      {
+        "school": "Gujarat University",
+        "degree": "Bachelors in Computer Applications",
+        "graduated": "Arpil 2017",
+        "description": "Graduated with First Class Distinction. 4 times university topper. 6 times college topper."
+      }
+    ],
+    "work": [
+      {
+        "company": "UnLock Math Inc.",
+        "title": "Full Stack Developer",
+        "years": "April 2018 - Present",
+        "description": "Developing a custom mathsolver for an education platform based on Python."
+      },
+      {
+        "company": "4site.ai",
+        "title": "Python Developer (Volunteer)",
+        "years": "July 2020 - Present",
+        "description": "Building a smart invoicing system for transparency between clients in a construction project."
+      },
+      {
+        "company": "ABM Sensors Technology",
+        "title": "PHP Developer (Contract)",
+        "years": "Nov 2019 - Jan 2020",
+        "description": "Added new management functionalities to an existing website and resolved active issues."
+      },
+      {
+        "company": "Acespritech Solutions Pvt. Ltd.",
+        "title": "Python Developer",
+        "years": "April 2016 - April 2017",
+        "description": "Developed an IoT Module based on Rasbperry Pi, MFRC522, Python, Odoo Open ERP and PostgreSQL."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python",
+        "level": "90%"
+      },
+      {
+        "name": "Flask",
+        "level": "80%"
+      },
+      {
+        "name": "Django",
+        "level": "50%"
+      },
+      {
+        "name": "Docker",
+        "level": "50%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "HTML5",
+        "level": "85%"
+      },
+      {
+        "name": "PostgreSQL",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "40%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Web Scrapping, data analysis and ML project on stock market",
+        "category": "Data Scrapping, Analysis and ML",
+        "image": "web-scrapping.png",
+        "url": "https://bitbucket.org/capstoneproj/data-scraping/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "It is very rare to have talents like parth dubal. My experience with parth is very less but that says lot about him. He is passionate about what he does and more importantly his dedication towards work. Parth's ability to juggle multiple projects was unlike i have ever seen. Parth would be an asset to any team.",
+        "user": "Dharmik Soni"
+      }
+    ]
+  }
+}
