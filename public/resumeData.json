@@ -15,8 +15,7 @@
       "zip": "K9J 3N7"
     },
     "resumedownload": "/docs/Parth_Dubal_-_Software_Developer.pdf",
-    "social": [
-      {
+    "social": [{
         "name": "facebook",
         "url": "https://www.facebook.com/neuroticTechnopyhle",
         "className": "fa fa-facebook"
@@ -40,8 +39,7 @@
   },
   "resume": {
     "skillmessage": "Python | Django | Flask | React | Docker",
-    "education": [
-      {
+    "education": [{
         "school": "Sir Sandford Fleming College",
         "degree": "Post Graduation in Wireless Information Netowkring",
         "graduated": "April 2019",
@@ -54,8 +52,7 @@
         "description": "Graduated with First Class Distinction. 4 times university topper. 6 times college topper."
       }
     ],
-    "work": [
-      {
+    "work": [{
         "company": "UnLock Math Inc.",
         "title": "Full Stack Developer",
         "years": "April 2018 - Present",
@@ -80,8 +77,7 @@
         "description": "Developed an IoT Module based on Rasbperry Pi, MFRC522, Python, Odoo Open ERP and PostgreSQL."
       }
     ],
-    "skills": [
-      {
+    "skills": [{
         "name": "Python",
         "level": "90%"
       },
@@ -124,7 +120,12 @@
     ]
   },
   "portfolio": {
-    "projects": [
+    "projects": [{
+        "title": "Amazon Clone",
+        "category": "Website cloning",
+        "image": "amazon_PNG27.png",
+        "url": "https://clone-c18a0.web.app/"
+      },
       {
         "title": "Web Scrapping, data analysis and ML project on stock market",
         "category": "Data Scrapping, Analysis and ML",
@@ -134,11 +135,9 @@
     ]
   },
   "testimonials": {
-    "testimonials": [
-      {
-        "text": "It is very rare to have talents like parth dubal. My experience with parth is very less but that says lot about him. He is passionate about what he does and more importantly his dedication towards work. Parth's ability to juggle multiple projects was unlike i have ever seen. Parth would be an asset to any team.",
-        "user": "Dharmik Soni"
-      }
-    ]
+    "testimonials": [{
+      "text": "It is very rare to have talents like parth dubal. My experience with parth is very less but that says lot about him. He is passionate about what he does and more importantly his dedication towards work. Parth's ability to juggle multiple projects was unlike i have ever seen. Parth would be an asset to any team.",
+      "user": "Dharmik Soni"
+    }]
   }
 }
