@@ -4,7 +4,7 @@
     "occupation": "Full Stack/Python Developer",
     "description": "Full Stack Developer at a start-up company and Python developer volunteer at another start-up company",
     "image": "IG_Parth.jpg",
-    "bio": "My name is Parth Dubal. I am currently working as a full stack developer at a start-up company and python developer  volunteer at a different company. I have 2 years of extensive experience in web development. Soon to join Capgemini for their client Morgan Stanley. :)",
+    "bio": "My name is Parth Dubal. I am currently working as a Software Developer at Morgan Stanley, Full Stack Developer at a start-up company and Python Developer volunteer at a different company. I have 3 years of extensive experience in web development :)",
     "contactmessage": "Get in touch with me to know more. I take freelance projects and also tutor one-to-one..",
     "email": "dubalparth@gmail.com",
     "phone": "+1 705-761-6568",
@@ -14,7 +14,7 @@
       "state": "ON",
       "zip": "K9J 3N7"
     },
-    "resumedownload": "/docs/Parth_Dubal_-_Software_Developer_4.pdf",
+    "resumedownload": "/docs/Parth_Dubal-Software_Developer.pdf",
     "social": [{
         "name": "facebook",
         "url": "https://www.facebook.com/neuroticTechnopyhle",
@@ -38,7 +38,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Python | Django | Flask | React | Docker",
+    "skillmessage": "Python | Django | Flask | React | Docker | QA Test",
     "education": [{
         "school": "Sir Sandford Fleming College",
         "degree": "Post Graduation in Wireless Information Netowkring",
@@ -52,7 +52,14 @@
         "description": "Graduated with First Class Distinction. 4 times university topper. 6 times college topper."
       }
     ],
-    "work": [{
+    "work": [
+      {
+        "company": "Morgan Stanley",
+        "title": "Software Developer",
+        "years": "November 2020 - Present",
+        "description": "Developing and managing APIs in Flask, automated test cases and FIX Protocol messages."
+      },
+      {
         "company": "UnLock Math Inc.",
         "title": "Full Stack Developer",
         "years": "April 2018 - Present",
